@@ -1,0 +1,14 @@
+html{
+    background: #000;
+}
+
+h1{
+    background: #ccc;
+    background: linear-gradient(90deg, #007cf0,
+    #00dfd8);
+    font-family: system-ui;
+    font-size: 3rem;
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
